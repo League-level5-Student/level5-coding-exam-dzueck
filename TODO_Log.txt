@@ -1,0 +1,7 @@
+//TODO: Create different perspectives
+//TODO: Needs testing
+//TODO: Make a Ray class
+//TODO: Display the final image
+//TODO: Create a Scene
+//TODO: Create a Vector2 class
+//TODO: Create a Vector4 class
